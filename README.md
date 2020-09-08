@@ -53,7 +53,7 @@ addEventListener(
 
 ### Clash 客户端设置
 这里的客户端用的是`Clash`, 下面为对应的`vmess`部分设置.修改其中的`server`,`uuid`,`path`就好了.
-```
+``` 
   - name: "IBM"
     type: vmess
     server: cloudflare_workers.dev
